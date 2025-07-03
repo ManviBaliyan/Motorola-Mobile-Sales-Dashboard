@@ -56,4 +56,4 @@ Customer satisfaction monitoring
 
 
 Screenshot / Demos
-example: [Dashboard Preview](https://github.com/ManviBaliyan/Motorola-Mobile-Sales-Dashboard/blob/main/Mobile%20Dashboard.pbit) 
+example: [Dashboard Preview](https://github.com/ManviBaliyan/Motorola-Mobile-Sales-Dashboard/blob/main/motorola%20dashboard.jpg) 
