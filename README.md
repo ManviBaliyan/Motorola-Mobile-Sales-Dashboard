@@ -53,3 +53,7 @@ Business decision-making support
 Mobile sales tracking by region and model
 
 Customer satisfaction monitoring
+
+
+Screenshot / Demos
+example: [Dashboard Preview](https://github.com/ManviBaliyan/Motorola-Mobile-Sales-Dashboard/blob/main/Mobile%20Dashboard.pbit) 
